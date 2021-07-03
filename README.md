@@ -1,2 +1,2 @@
 # DApps-Blockchain
-Etherium, Algorand, BSN DAapps projects parent folder  
+ Algorand, Etherium, BSN DAapps projects parent folder  
